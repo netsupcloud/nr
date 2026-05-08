@@ -1,12 +1,12 @@
 {
-  "name": "netlify-xhttp-relay",
+  "name": "n xr",
   "version": "1.0.0",
-  "description": "Netlify Edge Function HTTP relay for your own upstream service",
+  "description": "nr ef srv",
   "private": true,
   "license": "MIT",
   "scripts": {
     "dev": "netlify dev",
-    "build": "echo 'No build step required'"
+    "build": "echo 'No'"
   },
   "devDependencies": {
     "netlify-cli": "latest"
